@@ -1,0 +1,83 @@
+{
+  "label": "I",
+  "timestamp": 1586533364704,
+  "confidence": 1.0,
+  "touches": [
+    [
+      {
+        "x": 30,
+        "y": 11
+      },
+      {
+        "x": 30,
+        "y": 11
+      },
+      {
+        "x": 30,
+        "y": 14
+      },
+      {
+        "x": 30,
+        "y": 16
+      },
+      {
+        "x": 30,
+        "y": 19
+      },
+      {
+        "x": 30,
+        "y": 23
+      },
+      {
+        "x": 30,
+        "y": 25
+      },
+      {
+        "x": 30,
+        "y": 28
+      },
+      {
+        "x": 30,
+        "y": 32
+      },
+      {
+        "x": 29,
+        "y": 35
+      },
+      {
+        "x": 29,
+        "y": 38
+      },
+      {
+        "x": 29,
+        "y": 41
+      },
+      {
+        "x": 29,
+        "y": 42
+      },
+      {
+        "x": 29,
+        "y": 43
+      },
+      {
+        "x": 29,
+        "y": 43
+      },
+      {
+        "x": 29,
+        "y": 43
+      }
+    ]
+  ],
+  "image": {
+    "description": "PNG image in ARGB format even though this is just a grayscale image.",
+    "data": [
+      "iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAABHNCSVQICAgIfAhkiAAAALRJREFU",
+      "eJzt2sEJQzEMwFCn++/snnroAv99iLRAhHAgmJyZ2bmYjxbQFEALaAqgBTQF0AKaAmgBDQmwu7P7",
+      "jgdoE6AFNAXQApoCaAFNAbSApgBaQFMALaApgBbQFEALaAqgBTQF0AKaAmgBzeMB3rIO/8Em4Jyj",
+      "jv6jK6AFNAXQApoCaAFNAbSA5voAZ/orfDcF0AKaAmgBTQG0gKYAWkBTAC2gKYAW0BRAC2gKoAU0",
+      "BdACmi+HYAt31oc3JQAAAABJRU5ErkJggg=="
+    ]
+  }
+}

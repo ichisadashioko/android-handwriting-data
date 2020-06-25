@@ -1,0 +1,265 @@
+{
+  "label": "オ",
+  "timestamp": 1589675995816,
+  "confidence": 1.0,
+  "touches": [
+    [
+      {
+        "x": 17,
+        "y": 19
+      },
+      {
+        "x": 17,
+        "y": 19
+      },
+      {
+        "x": 17,
+        "y": 19
+      },
+      {
+        "x": 19,
+        "y": 20
+      },
+      {
+        "x": 22,
+        "y": 20
+      },
+      {
+        "x": 25,
+        "y": 20
+      },
+      {
+        "x": 29,
+        "y": 21
+      },
+      {
+        "x": 32,
+        "y": 21
+      },
+      {
+        "x": 38,
+        "y": 21
+      },
+      {
+        "x": 41,
+        "y": 21
+      },
+      {
+        "x": 42,
+        "y": 20
+      },
+      {
+        "x": 44,
+        "y": 20
+      },
+      {
+        "x": 46,
+        "y": 20
+      },
+      {
+        "x": 47,
+        "y": 20
+      },
+      {
+        "x": 48,
+        "y": 21
+      },
+      {
+        "x": 48,
+        "y": 21
+      }
+    ],
+    [
+      {
+        "x": 31,
+        "y": 12
+      },
+      {
+        "x": 31,
+        "y": 12
+      },
+      {
+        "x": 31,
+        "y": 12
+      },
+      {
+        "x": 31,
+        "y": 12
+      },
+      {
+        "x": 31,
+        "y": 12
+      },
+      {
+        "x": 31,
+        "y": 12
+      },
+      {
+        "x": 31,
+        "y": 12
+      },
+      {
+        "x": 31,
+        "y": 14
+      },
+      {
+        "x": 31,
+        "y": 16
+      },
+      {
+        "x": 32,
+        "y": 19
+      },
+      {
+        "x": 32,
+        "y": 23
+      },
+      {
+        "x": 32,
+        "y": 27
+      },
+      {
+        "x": 33,
+        "y": 30
+      },
+      {
+        "x": 33,
+        "y": 34
+      },
+      {
+        "x": 33,
+        "y": 38
+      },
+      {
+        "x": 34,
+        "y": 41
+      },
+      {
+        "x": 34,
+        "y": 44
+      },
+      {
+        "x": 34,
+        "y": 47
+      },
+      {
+        "x": 34,
+        "y": 47
+      },
+      {
+        "x": 34,
+        "y": 48
+      },
+      {
+        "x": 34,
+        "y": 48
+      },
+      {
+        "x": 34,
+        "y": 48
+      },
+      {
+        "x": 35,
+        "y": 48
+      },
+      {
+        "x": 34,
+        "y": 48
+      },
+      {
+        "x": 34,
+        "y": 47
+      },
+      {
+        "x": 33,
+        "y": 45
+      },
+      {
+        "x": 32,
+        "y": 43
+      },
+      {
+        "x": 32,
+        "y": 43
+      }
+    ],
+    [
+      {
+        "x": 31,
+        "y": 24
+      },
+      {
+        "x": 31,
+        "y": 24
+      },
+      {
+        "x": 31,
+        "y": 24
+      },
+      {
+        "x": 31,
+        "y": 24
+      },
+      {
+        "x": 31,
+        "y": 24
+      },
+      {
+        "x": 31,
+        "y": 24
+      },
+      {
+        "x": 30,
+        "y": 24
+      },
+      {
+        "x": 29,
+        "y": 26
+      },
+      {
+        "x": 27,
+        "y": 28
+      },
+      {
+        "x": 25,
+        "y": 31
+      },
+      {
+        "x": 23,
+        "y": 34
+      },
+      {
+        "x": 21,
+        "y": 37
+      },
+      {
+        "x": 19,
+        "y": 40
+      },
+      {
+        "x": 18,
+        "y": 42
+      },
+      {
+        "x": 17,
+        "y": 43
+      },
+      {
+        "x": 17,
+        "y": 43
+      }
+    ]
+  ],
+  "image": {
+    "description": "PNG image in ARGB format even though this is just a grayscale image.",
+    "data": [
+      "iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAABHNCSVQICAgIfAhkiAAAATpJREFU",
+      "eJztmUEOwyAMBJeq//8yPUXiUKVpbBij7DwgWQ/GoKRJ6nowLzoAjQXQAWgsgA5AYwF0ABoLoAPQ",
+      "WAD14t67eudv4e4AOgCNBdABaCyADkCfBGEBx3H2byGtteirU3hnPuyKhDuFnz03KrIp4Zsg3cYR",
+      "CSkdcCVAVNK3d2SIT+mAuxwFkPMgdQZchd4yI8uPwUrFSwXuATRLBYyrX+UesExAxeKlRQJ+FU/O",
+      "hekCzoqv0AkegjMfXnXfj0wTsEPxkrfAHAG7rL40QcBOxUveArkCdlt9KVHAjsVLhbYAdR1OERBZ",
+      "fbpbynQARfiTWGT1K3wdSusAupXvEu6AXQs/QGdABXmPH4K4gLELiKGIC6BBf41V4PEdYAF0ABoL",
+      "oAPQWAAdgMYC6AA0FkAHoLEAOgDN4wV8AJOsXnSr0JAvAAAAAElFTkSuQmCC"
+    ]
+  }
+}

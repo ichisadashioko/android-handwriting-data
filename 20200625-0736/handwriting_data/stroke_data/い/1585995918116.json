@@ -1,0 +1,118 @@
+{
+  "label": "い",
+  "timestamp": 1585995918116,
+  "confidence": 2.350479235246894E-6,
+  "touches": [
+    [
+      {
+        "x": 18,
+        "y": 14
+      },
+      {
+        "x": 18,
+        "y": 15
+      },
+      {
+        "x": 18,
+        "y": 19
+      },
+      {
+        "x": 18,
+        "y": 24
+      },
+      {
+        "x": 19,
+        "y": 27
+      },
+      {
+        "x": 20,
+        "y": 33
+      },
+      {
+        "x": 20,
+        "y": 35
+      },
+      {
+        "x": 22,
+        "y": 41
+      },
+      {
+        "x": 23,
+        "y": 42
+      },
+      {
+        "x": 23,
+        "y": 43
+      },
+      {
+        "x": 23,
+        "y": 43
+      },
+      {
+        "x": 23,
+        "y": 41
+      },
+      {
+        "x": 24,
+        "y": 37
+      },
+      {
+        "x": 25,
+        "y": 33
+      },
+      {
+        "x": 25,
+        "y": 33
+      }
+    ],
+    [
+      {
+        "x": 37,
+        "y": 12
+      },
+      {
+        "x": 37,
+        "y": 12
+      },
+      {
+        "x": 38,
+        "y": 13
+      },
+      {
+        "x": 39,
+        "y": 15
+      },
+      {
+        "x": 41,
+        "y": 21
+      },
+      {
+        "x": 41,
+        "y": 24
+      },
+      {
+        "x": 42,
+        "y": 28
+      },
+      {
+        "x": 42,
+        "y": 29
+      },
+      {
+        "x": 42,
+        "y": 29
+      }
+    ]
+  ],
+  "image": {
+    "description": "PNG image in ARGB format even though this is just a grayscale image.",
+    "data": [
+      "iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAABHNCSVQICAgIfAhkiAAAAQxJREFU",
+      "eJztmkEKwzAMBOXS/3/ZPQVcQ6AFSbPBOw8Qm7E2mJARETMO5kUHoLEAOgCNBdABaCyADkBjAXQA",
+      "GgugA+zMOWPOvtu5nICLLgkpAjJPbYzxNbca2Q3oQlLAugXVSApYqa6BrICuLZAV0MUjBFTWQFpA",
+      "Rw2kBXRgAXQAGgvIHFb5tq6anSKg8+qajXwFquXKC6gmXUDn15wM3nSAX6isgSuQNejulLo/cv6L",
+      "N6ByuPLJX3gDKobuJ698U0wVoPygd5RV4An9j/A7IF/AXgP1WngDKoaqn/rK8Rswwv8Kn40F0AFo",
+      "LIAOQGMBdAAaC6AD0FgAHYDGAugANBZAB6CxADoAjQXQAWg+Rqsydt+uJdsAAAAASUVORK5CYII="
+    ]
+  }
+}

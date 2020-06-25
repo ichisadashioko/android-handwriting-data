@@ -1,0 +1,128 @@
+{
+  "label": "レ",
+  "timestamp": 1589676010096,
+  "confidence": 1.0,
+  "touches": [
+    [
+      {
+        "x": 20,
+        "y": 16
+      },
+      {
+        "x": 20,
+        "y": 16
+      },
+      {
+        "x": 20,
+        "y": 16
+      },
+      {
+        "x": 20,
+        "y": 16
+      },
+      {
+        "x": 20,
+        "y": 16
+      },
+      {
+        "x": 21,
+        "y": 19
+      },
+      {
+        "x": 21,
+        "y": 22
+      },
+      {
+        "x": 22,
+        "y": 26
+      },
+      {
+        "x": 22,
+        "y": 30
+      },
+      {
+        "x": 22,
+        "y": 34
+      },
+      {
+        "x": 22,
+        "y": 38
+      },
+      {
+        "x": 22,
+        "y": 41
+      },
+      {
+        "x": 22,
+        "y": 44
+      },
+      {
+        "x": 22,
+        "y": 45
+      },
+      {
+        "x": 22,
+        "y": 47
+      },
+      {
+        "x": 22,
+        "y": 47
+      },
+      {
+        "x": 23,
+        "y": 47
+      },
+      {
+        "x": 23,
+        "y": 47
+      },
+      {
+        "x": 24,
+        "y": 46
+      },
+      {
+        "x": 27,
+        "y": 46
+      },
+      {
+        "x": 30,
+        "y": 44
+      },
+      {
+        "x": 34,
+        "y": 41
+      },
+      {
+        "x": 37,
+        "y": 38
+      },
+      {
+        "x": 39,
+        "y": 36
+      },
+      {
+        "x": 41,
+        "y": 34
+      },
+      {
+        "x": 42,
+        "y": 31
+      },
+      {
+        "x": 42,
+        "y": 31
+      }
+    ]
+  ],
+  "image": {
+    "description": "PNG image in ARGB format even though this is just a grayscale image.",
+    "data": [
+      "iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAABHNCSVQICAgIfAhkiAAAAQxJREFU",
+      "eJztm0EKwzAQA+WS/3/ZPQWCKT15d2SieYArTTdkE8iQNPViPnQAmgigA9BEAB2AJgLoADQRQAeg",
+      "iQA6AE0E0AFoImDnYXNOzXnW03UmoOLQk6Zgq4Axxs7jWsglQAegiQA6AE2ZgFPuBJmA3QeedivM",
+      "BNABaCKADkBzhIDKx+wjBFRiL6B6obIXcFO1X1gL6FinbQU8y1dul5YCuspLhgI6y0tmArrLS0YC",
+      "iPKSiQCqvCRdrb+2sN7miHcJ2AQ4lJeACfi13JBvkVoFuPzrT0oF/FtlHcpLwCXgUvymXIBb4ZWh",
+      "fC/wbiKADkATAXQAmgigA9BEAB2AJgLoADQRQAegiQA6AM0XC307gLW/23sAAAAASUVORK5CYII="
+    ]
+  }
+}

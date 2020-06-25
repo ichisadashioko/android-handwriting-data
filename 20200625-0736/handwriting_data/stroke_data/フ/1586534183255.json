@@ -1,0 +1,121 @@
+{
+  "label": "フ",
+  "timestamp": 1586534183255,
+  "confidence": 1.0,
+  "touches": [
+    [
+      {
+        "x": 15,
+        "y": 21
+      },
+      {
+        "x": 15,
+        "y": 21
+      },
+      {
+        "x": 16,
+        "y": 21
+      },
+      {
+        "x": 18,
+        "y": 21
+      },
+      {
+        "x": 22,
+        "y": 21
+      },
+      {
+        "x": 28,
+        "y": 21
+      },
+      {
+        "x": 31,
+        "y": 22
+      },
+      {
+        "x": 36,
+        "y": 21
+      },
+      {
+        "x": 41,
+        "y": 21
+      },
+      {
+        "x": 44,
+        "y": 20
+      },
+      {
+        "x": 46,
+        "y": 20
+      },
+      {
+        "x": 46,
+        "y": 20
+      },
+      {
+        "x": 46,
+        "y": 20
+      },
+      {
+        "x": 46,
+        "y": 21
+      },
+      {
+        "x": 46,
+        "y": 21
+      },
+      {
+        "x": 45,
+        "y": 25
+      },
+      {
+        "x": 45,
+        "y": 26
+      },
+      {
+        "x": 43,
+        "y": 30
+      },
+      {
+        "x": 42,
+        "y": 31
+      },
+      {
+        "x": 40,
+        "y": 36
+      },
+      {
+        "x": 35,
+        "y": 40
+      },
+      {
+        "x": 33,
+        "y": 43
+      },
+      {
+        "x": 30,
+        "y": 47
+      },
+      {
+        "x": 28,
+        "y": 49
+      },
+      {
+        "x": 28,
+        "y": 49
+      }
+    ]
+  ],
+  "image": {
+    "description": "PNG image in ARGB format even though this is just a grayscale image.",
+    "data": [
+      "iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAABHNCSVQICAgIfAhkiAAAASVJREFU",
+      "eJztm1kKwzAMBcel979y+lUo3WgTyyMRzQHMe2M5G2QAGyfmYgewaQF2AJsWYAewaQF2AJsWYAew",
+      "aQF2AJsWYAewaQF2AJsWYAewOb2Aqx3gV7bt9cvdGOPwursFvAv0D/fwR9c5ijYBe4pHSNst4Mj4",
+      "fSrwy5qzJ0aZgBlndxZl7wKzJJYVMItSAiLuGKUERFBGwOPuz7yIlhEQRQkBUbsPBQRElocCAqIp",
+      "IyDq6TG1gBVviqkFrCDlB5HnnY98eUo3ASvLQzIBq8tDIgFGeUhyDYh+2PmGPgFmeUggwEYVYO8+",
+      "iAIylIc+Ao6ALLsPgoBM5WGxgGzlQToCWcoDDPqPkXPTAuwANi3ADmDTAuwANi3ADmDTAuwANi3A",
+      "DmBzAzT6R4uEA76FAAAAAElFTkSuQmCC"
+    ]
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "label": "い",
+  "timestamp": 1589677895450,
+  "confidence": 4.3849799112649634E-5,
+  "touches": [
+    [
+      {
+        "x": 19,
+        "y": 17
+      },
+      {
+        "x": 19,
+        "y": 17
+      },
+      {
+        "x": 19,
+        "y": 17
+      },
+      {
+        "x": 19,
+        "y": 20
+      },
+      {
+        "x": 20,
+        "y": 23
+      },
+      {
+        "x": 21,
+        "y": 28
+      },
+      {
+        "x": 22,
+        "y": 31
+      },
+      {
+        "x": 24,
+        "y": 34
+      },
+      {
+        "x": 24,
+        "y": 35
+      },
+      {
+        "x": 26,
+        "y": 37
+      },
+      {
+        "x": 26,
+        "y": 37
+      },
+      {
+        "x": 26,
+        "y": 37
+      },
+      {
+        "x": 27,
+        "y": 35
+      },
+      {
+        "x": 29,
+        "y": 32
+      },
+      {
+        "x": 31,
+        "y": 30
+      },
+      {
+        "x": 31,
+        "y": 30
+      }
+    ],
+    [
+      {
+        "x": 36,
+        "y": 15
+      },
+      {
+        "x": 37,
+        "y": 16
+      },
+      {
+        "x": 40,
+        "y": 19
+      },
+      {
+        "x": 41,
+        "y": 23
+      },
+      {
+        "x": 43,
+        "y": 26
+      },
+      {
+        "x": 43,
+        "y": 28
+      },
+      {
+        "x": 43,
+        "y": 28
+      },
+      {
+        "x": 43,
+        "y": 28
+      }
+    ]
+  ],
+  "image": {
+    "description": "PNG image in ARGB format even though this is just a grayscale image.",
+    "data": [
+      "iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAABHNCSVQICAgIfAhkiAAAASFJREFU",
+      "eJztmdEKg0AMBPf6//98fSooSCk0yay48yxlM248pUvS1oN50QFoIoAOQBMBdACaCKAD0EQAHYAm",
+      "AugANBFAB6CxErD31t6zH6dWAj5MSigTUHH31lqn35vArgHTEuwESLMSLAVIZwmd2Ao40tmCcgHT",
+      "x9i/lAnoqOzEGtxiBaS+ZrUIuNMa2Deg+0i0FyD1PgtKBUyd3ZXcogGdLBX/OXrc02+N+FxHt6a8",
+      "Ab8M5HRKtK7A1aC/NmSK0WeA2/BSk4Crs9txeKmxAU5DfmNkBVzvvtQswG3YK9obcJTgKKT8Rehu",
+      "PP5VOALoADQRQAegiQA6AE0E0AFoIoAOQBMBdACaCKAD0EQAHYAmAugANBFAB6CJADoATQTQAWje",
+      "BglFeEAGPWAAAAAASUVORK5CYII="
+    ]
+  }
+}

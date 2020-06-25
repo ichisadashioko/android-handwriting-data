@@ -1,0 +1,115 @@
+{
+  "label": "い",
+  "timestamp": 1585997614171,
+  "confidence": 1.6629715901217423E-5,
+  "touches": [
+    [
+      {
+        "x": 17,
+        "y": 15
+      },
+      {
+        "x": 17,
+        "y": 15
+      },
+      {
+        "x": 17,
+        "y": 15
+      },
+      {
+        "x": 17,
+        "y": 17
+      },
+      {
+        "x": 17,
+        "y": 22
+      },
+      {
+        "x": 17,
+        "y": 27
+      },
+      {
+        "x": 17,
+        "y": 32
+      },
+      {
+        "x": 18,
+        "y": 37
+      },
+      {
+        "x": 20,
+        "y": 44
+      },
+      {
+        "x": 20,
+        "y": 46
+      },
+      {
+        "x": 20,
+        "y": 48
+      },
+      {
+        "x": 20,
+        "y": 48
+      },
+      {
+        "x": 21,
+        "y": 47
+      },
+      {
+        "x": 22,
+        "y": 43
+      },
+      {
+        "x": 25,
+        "y": 39
+      },
+      {
+        "x": 25,
+        "y": 39
+      }
+    ],
+    [
+      {
+        "x": 38,
+        "y": 16
+      },
+      {
+        "x": 39,
+        "y": 18
+      },
+      {
+        "x": 41,
+        "y": 21
+      },
+      {
+        "x": 41,
+        "y": 24
+      },
+      {
+        "x": 42,
+        "y": 29
+      },
+      {
+        "x": 42,
+        "y": 30
+      },
+      {
+        "x": 42,
+        "y": 30
+      }
+    ]
+  ],
+  "image": {
+    "description": "PNG image in ARGB format even though this is just a grayscale image.",
+    "data": [
+      "iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAABHNCSVQICAgIfAhkiAAAAQ9JREFU",
+      "eJztm8EKgzAQRCel///L6UmxILRgdt8umXfyJJOXSYKKQ9LUxrzoADQWQAegsQA6AI0F0AFoLIAO",
+      "QGMBdAAaC6AD0DwWMOfUnH0fKEs2IFNqSQEHGRJKC8igpIAxxnkd3YKSAjIpKyCrBWUFSN8Soigt",
+      "IAMLoAPQtBEQtRG2ERCFBdABfhF9FJYXEM32At50gH+IXAbbN2CZgK6vxdwAOgDNYwEZj6yRuAEr",
+      "b3a3EVb/bhDagMoDP1gi4G4fuA6+8j6xvAEdZv1KyBLoMvvSQgF3A60+eMnHoAWECehQf8kNiBHQ",
+      "ZfYlacg/TOyNBdABaCyADkBjAXQAGgugA9BYAB2AxgLoADTbC/gANucydky6nXcAAAAASUVORK5C",
+      "YII="
+    ]
+  }
+}

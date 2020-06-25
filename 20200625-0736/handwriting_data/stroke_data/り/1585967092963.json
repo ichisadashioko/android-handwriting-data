@@ -1,0 +1,131 @@
+{
+  "label": "り",
+  "timestamp": 1585967092963,
+  "confidence": 0.9309619665145874,
+  "touches": [
+    {
+      "x": 19,
+      "y": 13
+    },
+    {
+      "x": 19,
+      "y": 13
+    },
+    {
+      "x": 19,
+      "y": 13
+    },
+    {
+      "x": 19,
+      "y": 14
+    },
+    {
+      "x": 19,
+      "y": 17
+    },
+    {
+      "x": 19,
+      "y": 21
+    },
+    {
+      "x": 20,
+      "y": 25
+    },
+    {
+      "x": 20,
+      "y": 28
+    },
+    {
+      "x": 20,
+      "y": 30
+    },
+    {
+      "x": 20,
+      "y": 34
+    },
+    {
+      "x": 20,
+      "y": 36
+    },
+    {
+      "x": 20,
+      "y": 36
+    },
+    {
+      "x": 20,
+      "y": 35
+    },
+    {
+      "x": 21,
+      "y": 32
+    },
+    {
+      "x": 33,
+      "y": 12
+    },
+    {
+      "x": 34,
+      "y": 12
+    },
+    {
+      "x": 36,
+      "y": 13
+    },
+    {
+      "x": 38,
+      "y": 13
+    },
+    {
+      "x": 39,
+      "y": 15
+    },
+    {
+      "x": 41,
+      "y": 18
+    },
+    {
+      "x": 41,
+      "y": 20
+    },
+    {
+      "x": 42,
+      "y": 25
+    },
+    {
+      "x": 42,
+      "y": 27
+    },
+    {
+      "x": 41,
+      "y": 33
+    },
+    {
+      "x": 39,
+      "y": 39
+    },
+    {
+      "x": 37,
+      "y": 45
+    },
+    {
+      "x": 36,
+      "y": 48
+    },
+    {
+      "x": 35,
+      "y": 49
+    }
+  ],
+  "image": {
+    "description": "PNG image in ARGB format",
+    "data": [
+      "iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAABHNCSVQICAgIfAhkiAAAASFJREFU",
+      "eJztm0EOwjAMBG3E/79cTpEKAoGEveMqOw+AzbBtmiZkRByxMTc6AI0F0AFoLIAOQGMBdAAaC6AD",
+      "0Gwv4E4HOI7nJ/HMlH5/mYA1kH8HcBaikIFfApn5caCv7egAvwQWZwmKgS/wBrxDKWOkACVjBaha",
+      "MFZAxCazAI0F0AF+pes+UC5AOYdXcJkGdFEmoOuO3T0TuAF0ABoLoAN8w4uhZiyg40M7ats1HboB",
+      "dACaFgFVdVWsKy7RgM7H4UsI6KT0tXjlL6VaVo9vgFeDzYwUsP3O0MKvxQWME6B+qTpOwEJ1UGKs",
+      "ABWjBBB7CqMELJTnhMYIoHaUxghYqE+JZfgfI3tjAXQAGgugA9BYAB2AxgLoADQWQAegsQA6AM0D",
+      "FNY1jhGtNU8AAAAASUVORK5CYII="
+    ]
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "label": "フ",
+  "timestamp": 1585996048979,
+  "confidence": 1.0,
+  "touches": [
+    [
+      {
+        "x": 17,
+        "y": 19
+      },
+      {
+        "x": 17,
+        "y": 19
+      },
+      {
+        "x": 18,
+        "y": 19
+      },
+      {
+        "x": 20,
+        "y": 19
+      },
+      {
+        "x": 24,
+        "y": 19
+      },
+      {
+        "x": 27,
+        "y": 19
+      },
+      {
+        "x": 32,
+        "y": 19
+      },
+      {
+        "x": 38,
+        "y": 18
+      },
+      {
+        "x": 41,
+        "y": 18
+      },
+      {
+        "x": 47,
+        "y": 17
+      },
+      {
+        "x": 48,
+        "y": 17
+      },
+      {
+        "x": 48,
+        "y": 17
+      },
+      {
+        "x": 48,
+        "y": 17
+      },
+      {
+        "x": 47,
+        "y": 18
+      },
+      {
+        "x": 46,
+        "y": 20
+      },
+      {
+        "x": 46,
+        "y": 21
+      },
+      {
+        "x": 44,
+        "y": 24
+      },
+      {
+        "x": 44,
+        "y": 25
+      },
+      {
+        "x": 42,
+        "y": 29
+      },
+      {
+        "x": 41,
+        "y": 30
+      },
+      {
+        "x": 38,
+        "y": 34
+      },
+      {
+        "x": 33,
+        "y": 41
+      },
+      {
+        "x": 30,
+        "y": 45
+      },
+      {
+        "x": 29,
+        "y": 46
+      },
+      {
+        "x": 29,
+        "y": 46
+      }
+    ]
+  ],
+  "image": {
+    "description": "PNG image in ARGB format even though this is just a grayscale image.",
+    "data": [
+      "iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAABHNCSVQICAgIfAhkiAAAARdJREFU",
+      "eJztmluKwzAQBEsh97+y9ysQAnmw1qhaeOoAdneNHmA8gIMLc7MD2LQAO4BNC7AD2LQAO4BNC7AD",
+      "2LQAO4BNC7AD2LQAO4DN3Q7wK8fx/rPFGOPfz40Q8KlcNacFmOHh3PQhZAW88q3UTOmnBZydgP3u",
+      "7W6B2VtuKwHP5WetvK0EVLClgJnnzjYCqq7bbQRUsYWAisPvwRYCKokXUDl9CBdQXR6CBawoD8EC",
+      "VhEpYNX0IVDAyvIQJmB1eQgTYBAjwJg+hAiwykOIABNdgDl9kAXY5UEUkFAeAraAjSIgZfogCEgq",
+      "D+IWSCgPMOjf5a9NC7AD2LQAO4BNC7AD2LQAO4BNC7AD2LQAO4BNC7AD2FxewB9Yr0GKREXa5gAA",
+      "AABJRU5ErkJggg=="
+    ]
+  }
+}

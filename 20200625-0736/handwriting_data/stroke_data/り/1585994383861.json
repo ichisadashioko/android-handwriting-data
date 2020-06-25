@@ -1,0 +1,138 @@
+{
+  "label": "り",
+  "timestamp": 1585994383861,
+  "confidence": 0.34776315093040466,
+  "touches": [
+    [
+      {
+        "x": 18,
+        "y": 18
+      },
+      {
+        "x": 18,
+        "y": 18
+      },
+      {
+        "x": 18,
+        "y": 18
+      },
+      {
+        "x": 18,
+        "y": 18
+      },
+      {
+        "x": 18,
+        "y": 18
+      },
+      {
+        "x": 18,
+        "y": 20
+      },
+      {
+        "x": 18,
+        "y": 22
+      },
+      {
+        "x": 18,
+        "y": 26
+      },
+      {
+        "x": 18,
+        "y": 31
+      },
+      {
+        "x": 18,
+        "y": 33
+      },
+      {
+        "x": 19,
+        "y": 36
+      },
+      {
+        "x": 19,
+        "y": 37
+      },
+      {
+        "x": 19,
+        "y": 38
+      },
+      {
+        "x": 18,
+        "y": 38
+      },
+      {
+        "x": 18,
+        "y": 37
+      },
+      {
+        "x": 20,
+        "y": 33
+      },
+      {
+        "x": 23,
+        "y": 29
+      },
+      {
+        "x": 23,
+        "y": 29
+      }
+    ],
+    [
+      {
+        "x": 36,
+        "y": 17
+      },
+      {
+        "x": 36,
+        "y": 17
+      },
+      {
+        "x": 36,
+        "y": 17
+      },
+      {
+        "x": 37,
+        "y": 18
+      },
+      {
+        "x": 37,
+        "y": 19
+      },
+      {
+        "x": 39,
+        "y": 23
+      },
+      {
+        "x": 39,
+        "y": 25
+      },
+      {
+        "x": 39,
+        "y": 31
+      },
+      {
+        "x": 38,
+        "y": 34
+      },
+      {
+        "x": 36,
+        "y": 41
+      },
+      {
+        "x": 36,
+        "y": 41
+      }
+    ]
+  ],
+  "image": {
+    "description": "PNG image in ARGB format even though this is just a grayscale image.",
+    "data": [
+      "iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAABHNCSVQICAgIfAhkiAAAAPpJREFU",
+      "eJztmkEOgzAQxDZV///l7QmJC4e2y3gixg8IxiQ0jVhV1fVgXrQATQLQAjQJQAvQJAAtQJMAtABN",
+      "AtACNAlAC9AkAC1AYxWgu6tbezwxEmBaXBnBagasteTXtApwRjULbAOosAtwXgaKWWAXQI1lAOXL",
+      "0DKAkgSgBWgS4K6BiX39L9wSYIcbPxgPcL55Ym//LXkHTA429fS3/zs8NfUVSyhLYHrAf5/alkdi",
+      "O2MbQPUTahWA2EC9JwbZYcNzhdUMOMiBiJBV+VL02SQALUCTALQATQLQAjQJQAvQJAAtQJMAtABN",
+      "AtACNAlAC9AkAC1AkwC0AM0HbXsvcz5rVmMAAAAASUVORK5CYII="
+    ]
+  }
+}

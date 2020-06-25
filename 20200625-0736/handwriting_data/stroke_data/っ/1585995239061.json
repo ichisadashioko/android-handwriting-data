@@ -1,0 +1,116 @@
+{
+  "label": "っ",
+  "timestamp": 1585995239061,
+  "confidence": 1.0,
+  "touches": [
+    [
+      {
+        "x": 23,
+        "y": 40
+      },
+      {
+        "x": 23,
+        "y": 40
+      },
+      {
+        "x": 23,
+        "y": 40
+      },
+      {
+        "x": 23,
+        "y": 40
+      },
+      {
+        "x": 23,
+        "y": 40
+      },
+      {
+        "x": 23,
+        "y": 40
+      },
+      {
+        "x": 23,
+        "y": 40
+      },
+      {
+        "x": 24,
+        "y": 39
+      },
+      {
+        "x": 25,
+        "y": 38
+      },
+      {
+        "x": 28,
+        "y": 37
+      },
+      {
+        "x": 30,
+        "y": 36
+      },
+      {
+        "x": 31,
+        "y": 36
+      },
+      {
+        "x": 34,
+        "y": 36
+      },
+      {
+        "x": 36,
+        "y": 36
+      },
+      {
+        "x": 37,
+        "y": 37
+      },
+      {
+        "x": 39,
+        "y": 37
+      },
+      {
+        "x": 40,
+        "y": 38
+      },
+      {
+        "x": 41,
+        "y": 39
+      },
+      {
+        "x": 41,
+        "y": 40
+      },
+      {
+        "x": 41,
+        "y": 43
+      },
+      {
+        "x": 41,
+        "y": 45
+      },
+      {
+        "x": 38,
+        "y": 49
+      },
+      {
+        "x": 36,
+        "y": 51
+      },
+      {
+        "x": 36,
+        "y": 51
+      }
+    ]
+  ],
+  "image": {
+    "description": "PNG image in ARGB format even though this is just a grayscale image.",
+    "data": [
+      "iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAABHNCSVQICAgIfAhkiAAAAQBJREFU",
+      "eJztmtEKgzAQBDel///L6UuFIkpr4HaOuvOsODdKDOKQNHVjHrQATQLQAjQJQAvQJAAtQJMAtABN",
+      "AtACNAlAC9AkAC1AkwC0AE0C0AI0CUAL0CQALUCTALQATQLQAjQJQAvQJAAtQJMAtADN7QM83Rec",
+      "8/sfOWMMg8n7WjL9I/TL4EdUxygPcDb42WBHx1dGKA2wH+bqIJ/nV0UoWwT38isDONaC8reAc0Fb",
+      "oewt0H3wjdvvAxKAFqBpHWB183SFtgEcewCpcQAXLQO47r7UMIBzeKlZAPfwUrMAG3/5PaArLZ8A",
+      "JwlAC9AkAC1AkwC0AE0C0AI0CUAL0LwAd8Yph6XyutIAAAAASUVORK5CYII="
+    ]
+  }
+}

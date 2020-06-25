@@ -1,0 +1,127 @@
+{
+  "label": "ハ",
+  "timestamp": 1585994082294,
+  "confidence": 1.0,
+  "touches": [
+    [
+      {
+        "x": 20,
+        "y": 18
+      },
+      {
+        "x": 20,
+        "y": 18
+      },
+      {
+        "x": 20,
+        "y": 18
+      },
+      {
+        "x": 20,
+        "y": 18
+      },
+      {
+        "x": 20,
+        "y": 18
+      },
+      {
+        "x": 20,
+        "y": 21
+      },
+      {
+        "x": 19,
+        "y": 25
+      },
+      {
+        "x": 18,
+        "y": 28
+      },
+      {
+        "x": 16,
+        "y": 32
+      },
+      {
+        "x": 14,
+        "y": 36
+      },
+      {
+        "x": 14,
+        "y": 37
+      },
+      {
+        "x": 13,
+        "y": 41
+      },
+      {
+        "x": 13,
+        "y": 41
+      }
+    ],
+    [
+      {
+        "x": 39,
+        "y": 21
+      },
+      {
+        "x": 39,
+        "y": 21
+      },
+      {
+        "x": 39,
+        "y": 21
+      },
+      {
+        "x": 39,
+        "y": 21
+      },
+      {
+        "x": 40,
+        "y": 22
+      },
+      {
+        "x": 41,
+        "y": 24
+      },
+      {
+        "x": 42,
+        "y": 27
+      },
+      {
+        "x": 44,
+        "y": 30
+      },
+      {
+        "x": 46,
+        "y": 32
+      },
+      {
+        "x": 48,
+        "y": 36
+      },
+      {
+        "x": 49,
+        "y": 37
+      },
+      {
+        "x": 50,
+        "y": 40
+      },
+      {
+        "x": 50,
+        "y": 40
+      }
+    ]
+  ],
+  "image": {
+    "description": "PNG image in ARGB format even though this is just a grayscale image.",
+    "data": [
+      "iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAABHNCSVQICAgIfAhkiAAAARZJREFU",
+      "eJztmkEOwjAQxDaI/385nCpFqBzo7tRZdXyntZwpIMSIiBkP5kUL0DgALUDjALQAjQPQAjQOQAvQ",
+      "OAAtQOMAtACNA9ACNA5QebE5Z8zZ6/cVL4AWoNk2wF2P07YBDtQRygJUi44xZNde2X4BasoDrCe3",
+      "07V+0WYBqsegJIDyGVWvoHQBallF6HSAbl99v2nxHqD8SEwFWGXU81dFaLGAA0WEywHuPP2V6git",
+      "FqDgUgDq9M/umV2BF5B5MXH6Z/fOrKD1AioO4O8Au37zu+rVegER+RVcDkA+/5W8aYEKMocxwv8U",
+      "fTYOQAvQOAAtQOMAtACNA9ACNA5AC9A4AC1A4wC0AI0D0AI0DkAL0DgALUDzAQpWRHaWTzYkAAAA",
+      "AElFTkSuQmCC"
+    ]
+  }
+}

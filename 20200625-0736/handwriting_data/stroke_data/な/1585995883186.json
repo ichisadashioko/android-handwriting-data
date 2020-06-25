@@ -1,0 +1,257 @@
+{
+  "label": "な",
+  "timestamp": 1585995883186,
+  "confidence": 0.8329915404319763,
+  "touches": [
+    [
+      {
+        "x": 12,
+        "y": 20
+      },
+      {
+        "x": 12,
+        "y": 20
+      },
+      {
+        "x": 12,
+        "y": 20
+      },
+      {
+        "x": 12,
+        "y": 20
+      },
+      {
+        "x": 12,
+        "y": 20
+      },
+      {
+        "x": 14,
+        "y": 20
+      },
+      {
+        "x": 18,
+        "y": 20
+      },
+      {
+        "x": 21,
+        "y": 20
+      },
+      {
+        "x": 26,
+        "y": 19
+      },
+      {
+        "x": 31,
+        "y": 19
+      },
+      {
+        "x": 34,
+        "y": 19
+      },
+      {
+        "x": 35,
+        "y": 18
+      },
+      {
+        "x": 35,
+        "y": 18
+      }
+    ],
+    [
+      {
+        "x": 27,
+        "y": 11
+      },
+      {
+        "x": 27,
+        "y": 11
+      },
+      {
+        "x": 27,
+        "y": 11
+      },
+      {
+        "x": 26,
+        "y": 13
+      },
+      {
+        "x": 24,
+        "y": 18
+      },
+      {
+        "x": 23,
+        "y": 21
+      },
+      {
+        "x": 21,
+        "y": 27
+      },
+      {
+        "x": 20,
+        "y": 29
+      },
+      {
+        "x": 18,
+        "y": 33
+      },
+      {
+        "x": 17,
+        "y": 35
+      },
+      {
+        "x": 16,
+        "y": 37
+      },
+      {
+        "x": 16,
+        "y": 38
+      },
+      {
+        "x": 16,
+        "y": 38
+      }
+    ],
+    [
+      {
+        "x": 42,
+        "y": 26
+      },
+      {
+        "x": 42,
+        "y": 26
+      },
+      {
+        "x": 41,
+        "y": 28
+      },
+      {
+        "x": 40,
+        "y": 30
+      },
+      {
+        "x": 39,
+        "y": 35
+      },
+      {
+        "x": 36,
+        "y": 40
+      },
+      {
+        "x": 35,
+        "y": 42
+      },
+      {
+        "x": 31,
+        "y": 45
+      },
+      {
+        "x": 26,
+        "y": 46
+      },
+      {
+        "x": 25,
+        "y": 46
+      },
+      {
+        "x": 23,
+        "y": 46
+      },
+      {
+        "x": 22,
+        "y": 45
+      },
+      {
+        "x": 21,
+        "y": 44
+      },
+      {
+        "x": 21,
+        "y": 43
+      },
+      {
+        "x": 23,
+        "y": 42
+      },
+      {
+        "x": 26,
+        "y": 41
+      },
+      {
+        "x": 30,
+        "y": 41
+      },
+      {
+        "x": 34,
+        "y": 42
+      },
+      {
+        "x": 36,
+        "y": 43
+      },
+      {
+        "x": 39,
+        "y": 45
+      },
+      {
+        "x": 42,
+        "y": 46
+      },
+      {
+        "x": 44,
+        "y": 46
+      },
+      {
+        "x": 44,
+        "y": 46
+      }
+    ],
+    [
+      {
+        "x": 39,
+        "y": 11
+      },
+      {
+        "x": 39,
+        "y": 11
+      },
+      {
+        "x": 39,
+        "y": 11
+      },
+      {
+        "x": 40,
+        "y": 12
+      },
+      {
+        "x": 44,
+        "y": 15
+      },
+      {
+        "x": 45,
+        "y": 16
+      },
+      {
+        "x": 49,
+        "y": 18
+      },
+      {
+        "x": 49,
+        "y": 18
+      }
+    ]
+  ],
+  "image": {
+    "description": "PNG image in ARGB format even though this is just a grayscale image.",
+    "data": [
+      "iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAABHNCSVQICAgIfAhkiAAAAYtJREFU",
+      "eJztms0SgzAIhEmn7//K6YmO42hLEpYlI9+pB6vLQsiPNhHp8mBebAFsygC2ADZlAFsAmzKALYBN",
+      "GcAWwCbMgN679G5fdI5eP0uIASuBoE1IOwRaa9/fyGqAG3AUfgzKwvl6hAlpK0BBm9AEvB1WwaPZ",
+      "/3UvxeOe0Apwz9ZFNaw+I80QsAZzlfUVE97T//zDWZRnNagJHvcc6gHoOdljTI8Cq4AjjMCswGYB",
+      "z+6PBNIEI9bwXkBngezZF0k0DbJwNwBR/ltuhrzKf6vt8E7NT0ndA1a20lbcDIgQiyB1BShIQ10M",
+      "QGQ/qp9sUQFIlg3Ydewr6SsAbeqSAajsR64n0lcAGhcDUNmP6CmpKoDRUJeOxHbs+mfgZ4LWo27W",
+      "dAoxYLSLM3eR7oeiV8HcZfRX4FFVAD8TnA0kqipC3gsolowfr4k4Woe8FxjJHnt4wF+M3D7YGMRI",
+      "T5kB/n1AdlKtBBmUAWwBbMoAtgA2ZQBbAJsygC2ATRnAFsCmDGALYFMGsAWwebwBH9PEp03hEagL",
+      "AAAAAElFTkSuQmCC"
+    ]
+  }
+}

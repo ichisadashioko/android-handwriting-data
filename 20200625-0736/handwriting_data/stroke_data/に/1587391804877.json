@@ -1,0 +1,156 @@
+{
+  "label": "に",
+  "timestamp": 1587391804877,
+  "confidence": 0.756115734577179,
+  "touches": [
+    [
+      {
+        "x": 19,
+        "y": 13
+      },
+      {
+        "x": 19,
+        "y": 13
+      },
+      {
+        "x": 19,
+        "y": 13
+      },
+      {
+        "x": 19,
+        "y": 13
+      },
+      {
+        "x": 19,
+        "y": 13
+      },
+      {
+        "x": 19,
+        "y": 13
+      },
+      {
+        "x": 19,
+        "y": 14
+      },
+      {
+        "x": 19,
+        "y": 17
+      },
+      {
+        "x": 18,
+        "y": 23
+      },
+      {
+        "x": 17,
+        "y": 29
+      },
+      {
+        "x": 17,
+        "y": 38
+      },
+      {
+        "x": 17,
+        "y": 43
+      },
+      {
+        "x": 17,
+        "y": 43
+      },
+      {
+        "x": 17,
+        "y": 43
+      }
+    ],
+    [
+      {
+        "x": 27,
+        "y": 18
+      },
+      {
+        "x": 27,
+        "y": 18
+      },
+      {
+        "x": 27,
+        "y": 18
+      },
+      {
+        "x": 28,
+        "y": 18
+      },
+      {
+        "x": 31,
+        "y": 18
+      },
+      {
+        "x": 34,
+        "y": 17
+      },
+      {
+        "x": 38,
+        "y": 17
+      },
+      {
+        "x": 41,
+        "y": 18
+      },
+      {
+        "x": 42,
+        "y": 18
+      },
+      {
+        "x": 42,
+        "y": 18
+      }
+    ],
+    [
+      {
+        "x": 29,
+        "y": 33
+      },
+      {
+        "x": 28,
+        "y": 33
+      },
+      {
+        "x": 28,
+        "y": 35
+      },
+      {
+        "x": 29,
+        "y": 37
+      },
+      {
+        "x": 31,
+        "y": 41
+      },
+      {
+        "x": 34,
+        "y": 44
+      },
+      {
+        "x": 41,
+        "y": 44
+      },
+      {
+        "x": 42,
+        "y": 44
+      },
+      {
+        "x": 42,
+        "y": 44
+      }
+    ]
+  ],
+  "image": {
+    "description": "PNG image in ARGB format even though this is just a grayscale image.",
+    "data": [
+      "iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAABHNCSVQICAgIfAhkiAAAAQpJREFU",
+      "eJztmssOwyAQA71V//+X6a3iEjUisLMUz73CGVwgj5DUdDAvOgCNBdABaCyADkBjAXQAGgugA9BY",
+      "AB2AZpqA1ppa2++2wg2gA9AcL+BNB/i1bkTE0vHTBIwukP3vVsiYIuDp6n91YRm7SloDRmZvdf0l",
+      "L4JzBWTM2GzcADoAzWMBO57/e9wAOgDNNAE77gCSG2ABFkAHoEl9HrD61naE4xuACKgy+xIkoNLx",
+      "2X+BzMH66ldpgRuQPWC1FrgBxKCVWoA1oIoE9NVYRHwv/o6EFQeoUIFvhe824G8FkHgXoAPQWAAd",
+      "gMYC6AA0FkAHoLEAOgCNBdABaCyADkBjAXQAGgugA9B8AGAiNoRdVgrKAAAAAElFTkSuQmCC"
+    ]
+  }
+}

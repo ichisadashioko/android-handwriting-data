@@ -1,0 +1,126 @@
+{
+  "label": "イ",
+  "timestamp": 1586535010838,
+  "confidence": 1.0,
+  "touches": [
+    [
+      {
+        "x": 34,
+        "y": 10
+      },
+      {
+        "x": 33,
+        "y": 12
+      },
+      {
+        "x": 32,
+        "y": 13
+      },
+      {
+        "x": 32,
+        "y": 16
+      },
+      {
+        "x": 31,
+        "y": 18
+      },
+      {
+        "x": 30,
+        "y": 20
+      },
+      {
+        "x": 28,
+        "y": 23
+      },
+      {
+        "x": 28,
+        "y": 24
+      },
+      {
+        "x": 25,
+        "y": 28
+      },
+      {
+        "x": 24,
+        "y": 30
+      },
+      {
+        "x": 23,
+        "y": 32
+      },
+      {
+        "x": 22,
+        "y": 34
+      },
+      {
+        "x": 22,
+        "y": 34
+      }
+    ],
+    [
+      {
+        "x": 31,
+        "y": 20
+      },
+      {
+        "x": 31,
+        "y": 20
+      },
+      {
+        "x": 31,
+        "y": 20
+      },
+      {
+        "x": 31,
+        "y": 20
+      },
+      {
+        "x": 32,
+        "y": 23
+      },
+      {
+        "x": 32,
+        "y": 24
+      },
+      {
+        "x": 32,
+        "y": 28
+      },
+      {
+        "x": 33,
+        "y": 30
+      },
+      {
+        "x": 33,
+        "y": 33
+      },
+      {
+        "x": 34,
+        "y": 37
+      },
+      {
+        "x": 34,
+        "y": 38
+      },
+      {
+        "x": 34,
+        "y": 40
+      },
+      {
+        "x": 34,
+        "y": 40
+      }
+    ]
+  ],
+  "image": {
+    "description": "PNG image in ARGB format even though this is just a grayscale image.",
+    "data": [
+      "iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAABHNCSVQICAgIfAhkiAAAAQBJREFU",
+      "eJzt2kEOwyAMRFFT9f5XpiukqGqldkGeJeYfAMYfG7LIqKpZB/PQATQRoANoIkAH0ESADqCJAB2g",
+      "qmrOWXOa7zEuQBW+4AI0VMD19McYJEOLDlDFVzURIIkAtbG+/RfpALFph9t/kQ64e8Mus7+4VcCn",
+      "4rUQNgJ69hdEQJfiq24UoFv9G7cI6PTsvZNncPcGnU+/arOAX4uX90NGYNfCv5x+h5FIB+xYtPvF",
+      "dyUdsHPxf05fvQTPHYt2b/srfAS0LC5AEwE6gOZ4AaPyo+TZRIAOoIkAHUATATqAJgJ0AE0E6ACa",
+      "CNABNBGgA2giQAfQRIAOoIkAHUBzvIAXFGw1dn6F8KwAAAAASUVORK5CYII="
+    ]
+  }
+}

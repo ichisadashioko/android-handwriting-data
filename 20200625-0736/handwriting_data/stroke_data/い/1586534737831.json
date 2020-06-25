@@ -1,0 +1,135 @@
+{
+  "label": "い",
+  "timestamp": 1586534737831,
+  "confidence": 6.664484390057623E-4,
+  "touches": [
+    [
+      {
+        "x": 17,
+        "y": 15
+      },
+      {
+        "x": 17,
+        "y": 15
+      },
+      {
+        "x": 17,
+        "y": 15
+      },
+      {
+        "x": 17,
+        "y": 15
+      },
+      {
+        "x": 17,
+        "y": 15
+      },
+      {
+        "x": 17,
+        "y": 16
+      },
+      {
+        "x": 17,
+        "y": 19
+      },
+      {
+        "x": 17,
+        "y": 22
+      },
+      {
+        "x": 18,
+        "y": 27
+      },
+      {
+        "x": 19,
+        "y": 30
+      },
+      {
+        "x": 21,
+        "y": 35
+      },
+      {
+        "x": 22,
+        "y": 39
+      },
+      {
+        "x": 23,
+        "y": 41
+      },
+      {
+        "x": 24,
+        "y": 41
+      },
+      {
+        "x": 25,
+        "y": 39
+      },
+      {
+        "x": 25,
+        "y": 37
+      },
+      {
+        "x": 26,
+        "y": 33
+      },
+      {
+        "x": 26,
+        "y": 33
+      }
+    ],
+    [
+      {
+        "x": 36,
+        "y": 13
+      },
+      {
+        "x": 36,
+        "y": 13
+      },
+      {
+        "x": 36,
+        "y": 13
+      },
+      {
+        "x": 37,
+        "y": 14
+      },
+      {
+        "x": 39,
+        "y": 18
+      },
+      {
+        "x": 40,
+        "y": 21
+      },
+      {
+        "x": 41,
+        "y": 25
+      },
+      {
+        "x": 42,
+        "y": 29
+      },
+      {
+        "x": 42,
+        "y": 30
+      },
+      {
+        "x": 42,
+        "y": 30
+      }
+    ]
+  ],
+  "image": {
+    "description": "PNG image in ARGB format even though this is just a grayscale image.",
+    "data": [
+      "iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAABHNCSVQICAgIfAhkiAAAARpJREFU",
+      "eJztmkEOwjAMBB3E/79sTkilAlSptmer7jwgWibrJCBWRGTcmAcdgMYC6AA0FkAHoLEAOgCNBdAB",
+      "aCyADkAjJSAzI3P2q4mUgDeTEk4LqNy1tdbHuhNINmASOQHTLZATMI2kgG0LupEUsKV7DGQFTLVA",
+      "VsAUlxDQOQZlAqafsFVIN2DiHJAWMMFpAVOnddeIuQGVi3XsUnfDSgRMPl2rKR+Bq12HTzrAETob",
+      "VtaAfyGJ3/qO0nILqH7Yb7Rfg+oySgVc8TZoa8B+51Xl+CVYvaDqTv+itQHqB2CER6BHwH4MlMdi",
+      "hf8pem8sgA5AYwF0ABoLoAPQWAAdgMYC6AA0FkAHoLEAOgCNBdABaCyADkBjAXQAmheFVjtz5/5n",
+      "/gAAAABJRU5ErkJggg=="
+    ]
+  }
+}

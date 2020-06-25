@@ -1,0 +1,159 @@
+{
+  "label": "の",
+  "timestamp": 1585971079793,
+  "confidence": 0.9996067881584167,
+  "touches": [
+    [
+      {
+        "x": 31,
+        "y": 21
+      },
+      {
+        "x": 31,
+        "y": 21
+      },
+      {
+        "x": 31,
+        "y": 21
+      },
+      {
+        "x": 31,
+        "y": 21
+      },
+      {
+        "x": 31,
+        "y": 23
+      },
+      {
+        "x": 31,
+        "y": 25
+      },
+      {
+        "x": 31,
+        "y": 30
+      },
+      {
+        "x": 30,
+        "y": 35
+      },
+      {
+        "x": 27,
+        "y": 41
+      },
+      {
+        "x": 24,
+        "y": 45
+      },
+      {
+        "x": 19,
+        "y": 48
+      },
+      {
+        "x": 14,
+        "y": 48
+      },
+      {
+        "x": 12,
+        "y": 46
+      },
+      {
+        "x": 10,
+        "y": 43
+      },
+      {
+        "x": 9,
+        "y": 39
+      },
+      {
+        "x": 10,
+        "y": 33
+      },
+      {
+        "x": 11,
+        "y": 28
+      },
+      {
+        "x": 13,
+        "y": 26
+      },
+      {
+        "x": 17,
+        "y": 22
+      },
+      {
+        "x": 19,
+        "y": 21
+      },
+      {
+        "x": 24,
+        "y": 18
+      },
+      {
+        "x": 29,
+        "y": 17
+      },
+      {
+        "x": 34,
+        "y": 17
+      },
+      {
+        "x": 38,
+        "y": 18
+      },
+      {
+        "x": 44,
+        "y": 21
+      },
+      {
+        "x": 45,
+        "y": 23
+      },
+      {
+        "x": 48,
+        "y": 27
+      },
+      {
+        "x": 49,
+        "y": 31
+      },
+      {
+        "x": 49,
+        "y": 35
+      },
+      {
+        "x": 47,
+        "y": 40
+      },
+      {
+        "x": 44,
+        "y": 45
+      },
+      {
+        "x": 42,
+        "y": 47
+      },
+      {
+        "x": 39,
+        "y": 49
+      },
+      {
+        "x": 39,
+        "y": 49
+      }
+    ]
+  ],
+  "image": {
+    "description": "PNG image in ARGB format",
+    "data": [
+      "iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAABHNCSVQICAgIfAhkiAAAAYFJREFU",
+      "eJztmtsSgjAMRFPH//9lfGKGQZQm3e2mmvOsZXMIl7Y0M9vsj3moA6gpAeoAakqAOoCaEqAOoKYE",
+      "qAOoKQHqAGpKgDqAmhKgDqDmOeMg2+ZbcmitkZJcHMtICyLeoj/BlkER8K34bwVF/zcCVMBVAdHg",
+      "n2SgRUAERArf/9P7O8/YHoafAuyArbW38VD3F7NBAecgV2FRsMYNCzgWzyz8yPEYqC4ICTgXPxO0",
+      "BLcAZfEMXAKyFI/sgm4BWYpHZ3BfAhmKPzPSBV0CkM/dbCw9HUZ0o0RApo5yCch4/Y+y9CWA4FYA",
+      "s10zdNT0DkAKlbwK/xrdAhDtynqbHBlr2Q6QTocjZJtL7IQmQ2qQMqd0QNazb9YhYDQwunj0eOEF",
+      "EQWMTqLtDV6tGGekqwO8S1CM4mnvEObYGboLwdgkYXeSe2us9z6APuuoMc9Q1gRXKd4seBOc+gHD",
+      "it8HrMSykyEUJUAdQE0JUAdQUwLUAdSUAHUANSVAHUBNCVAHUPMCzqKSjNTJU6oAAAAASUVORK5C",
+      "YII="
+    ]
+  }
+}

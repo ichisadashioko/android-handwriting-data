@@ -1,0 +1,131 @@
+{
+  "label": "い",
+  "timestamp": 1589674873516,
+  "confidence": 0.08315818756818771,
+  "touches": [
+    [
+      {
+        "x": 20,
+        "y": 16
+      },
+      {
+        "x": 20,
+        "y": 16
+      },
+      {
+        "x": 19,
+        "y": 17
+      },
+      {
+        "x": 20,
+        "y": 20
+      },
+      {
+        "x": 20,
+        "y": 23
+      },
+      {
+        "x": 22,
+        "y": 26
+      },
+      {
+        "x": 23,
+        "y": 30
+      },
+      {
+        "x": 25,
+        "y": 33
+      },
+      {
+        "x": 26,
+        "y": 37
+      },
+      {
+        "x": 28,
+        "y": 40
+      },
+      {
+        "x": 30,
+        "y": 44
+      },
+      {
+        "x": 31,
+        "y": 45
+      },
+      {
+        "x": 31,
+        "y": 45
+      },
+      {
+        "x": 31,
+        "y": 45
+      },
+      {
+        "x": 32,
+        "y": 41
+      },
+      {
+        "x": 32,
+        "y": 40
+      },
+      {
+        "x": 32,
+        "y": 40
+      }
+    ],
+    [
+      {
+        "x": 39,
+        "y": 15
+      },
+      {
+        "x": 40,
+        "y": 16
+      },
+      {
+        "x": 41,
+        "y": 17
+      },
+      {
+        "x": 42,
+        "y": 20
+      },
+      {
+        "x": 43,
+        "y": 22
+      },
+      {
+        "x": 44,
+        "y": 23
+      },
+      {
+        "x": 45,
+        "y": 27
+      },
+      {
+        "x": 45,
+        "y": 28
+      },
+      {
+        "x": 45,
+        "y": 30
+      },
+      {
+        "x": 45,
+        "y": 30
+      }
+    ]
+  ],
+  "image": {
+    "description": "PNG image in ARGB format even though this is just a grayscale image.",
+    "data": [
+      "iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAABHNCSVQICAgIfAhkiAAAASJJREFU",
+      "eJztmkEOwjAMBBPE/79srlFFkZC8HlvdeUCyTNdNEOy1VqwH86ID0FgAHYDGAugANBZAB6CxADoA",
+      "jQXQAWgsgA5A01ZARKwI/RfVVAGK0GoJaQKyg+69ZWufpI/AGbzTWnekC1A9LdW6aQJUT0vdgran",
+      "wDcULRglQMEIAcoTQSJAUVXVu2BEA65kCk4VUHV5yaT1RahibekITGjByHdAJhIBFXf4LOQN6D4G",
+      "bzrAv2S3S9aAKUeidAQmvAvKToGuLfAxqN6g+xiUNqDjGHgEKja5OxKrfvz4RVkDut4LPAKVm3Vs",
+      "gRtQveH1XkDfE5AG0B/6ZC//W/zZWAAdgMYC6AA0FkAHoLEAOgCNBdABaCyADkBjAXQAGgugA9B8",
+      "AOoZSnZ/uTYlAAAAAElFTkSuQmCC"
+    ]
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "label": "卜",
+  "timestamp": 1586307443869,
+  "confidence": 0.9976338148117065,
+  "touches": [
+    [
+      {
+        "x": 25,
+        "y": 10
+      },
+      {
+        "x": 25,
+        "y": 10
+      },
+      {
+        "x": 25,
+        "y": 12
+      },
+      {
+        "x": 24,
+        "y": 17
+      },
+      {
+        "x": 24,
+        "y": 22
+      },
+      {
+        "x": 23,
+        "y": 25
+      },
+      {
+        "x": 22,
+        "y": 30
+      },
+      {
+        "x": 22,
+        "y": 35
+      },
+      {
+        "x": 21,
+        "y": 38
+      },
+      {
+        "x": 21,
+        "y": 42
+      },
+      {
+        "x": 20,
+        "y": 45
+      },
+      {
+        "x": 20,
+        "y": 48
+      },
+      {
+        "x": 20,
+        "y": 48
+      },
+      {
+        "x": 20,
+        "y": 48
+      }
+    ],
+    [
+      {
+        "x": 23,
+        "y": 21
+      },
+      {
+        "x": 23,
+        "y": 21
+      },
+      {
+        "x": 25,
+        "y": 23
+      },
+      {
+        "x": 27,
+        "y": 25
+      },
+      {
+        "x": 28,
+        "y": 26
+      },
+      {
+        "x": 30,
+        "y": 28
+      },
+      {
+        "x": 31,
+        "y": 30
+      },
+      {
+        "x": 32,
+        "y": 32
+      },
+      {
+        "x": 32,
+        "y": 33
+      },
+      {
+        "x": 32,
+        "y": 33
+      }
+    ]
+  ],
+  "image": {
+    "description": "PNG image in ARGB format even though this is just a grayscale image.",
+    "data": [
+      "iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAABHNCSVQICAgIfAhkiAAAAPhJREFU",
+      "eJztmzEOwzAMA+mi//+yOgXI0KVFpKNh3gNs5kDFzpAlqXQwLzoATQTQAWgigA5AEwF0AJoI6N6g",
+      "qlTle9dKA+gANBHQubjz7F+kAXQAmhEBa62Jbf4iDaAD0ERA18I7HIFSGtAn4P7md27D2Ai4Smgf",
+      "AfcmjF+E3CS0CPj2kK4SRk8BRwnjx6CbhFYBzh9BF8hFyKkFuQlSG7uMx/ENeJObO7Tg+AY8LoB+",
+      "q//KyOewMxkBOgBNBNABaCLgycV2OwKlpgbscgRKGYEIiAA6AM1Sfpg4mwigA9BEAB2AJgLoADQR",
+      "QAegiQA6AE0E0AFojhfwAfmpMnbtxht/AAAAAElFTkSuQmCC"
+    ]
+  }
+}

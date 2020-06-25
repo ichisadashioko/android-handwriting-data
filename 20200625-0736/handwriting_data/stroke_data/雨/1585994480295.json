@@ -1,0 +1,413 @@
+{
+  "label": "雨",
+  "timestamp": 1585994480295,
+  "confidence": 1.0,
+  "touches": [
+    [
+      {
+        "x": 10,
+        "y": 16
+      },
+      {
+        "x": 11,
+        "y": 16
+      },
+      {
+        "x": 12,
+        "y": 16
+      },
+      {
+        "x": 15,
+        "y": 16
+      },
+      {
+        "x": 19,
+        "y": 16
+      },
+      {
+        "x": 24,
+        "y": 15
+      },
+      {
+        "x": 27,
+        "y": 15
+      },
+      {
+        "x": 32,
+        "y": 14
+      },
+      {
+        "x": 37,
+        "y": 14
+      },
+      {
+        "x": 41,
+        "y": 13
+      },
+      {
+        "x": 45,
+        "y": 13
+      },
+      {
+        "x": 46,
+        "y": 13
+      },
+      {
+        "x": 49,
+        "y": 12
+      },
+      {
+        "x": 50,
+        "y": 12
+      },
+      {
+        "x": 51,
+        "y": 12
+      },
+      {
+        "x": 52,
+        "y": 12
+      },
+      {
+        "x": 52,
+        "y": 12
+      },
+      {
+        "x": 52,
+        "y": 12
+      }
+    ],
+    [
+      {
+        "x": 12,
+        "y": 27
+      },
+      {
+        "x": 12,
+        "y": 27
+      },
+      {
+        "x": 12,
+        "y": 27
+      },
+      {
+        "x": 12,
+        "y": 27
+      },
+      {
+        "x": 12,
+        "y": 27
+      },
+      {
+        "x": 11,
+        "y": 27
+      },
+      {
+        "x": 12,
+        "y": 29
+      },
+      {
+        "x": 12,
+        "y": 33
+      },
+      {
+        "x": 13,
+        "y": 38
+      },
+      {
+        "x": 13,
+        "y": 41
+      },
+      {
+        "x": 13,
+        "y": 47
+      },
+      {
+        "x": 13,
+        "y": 49
+      },
+      {
+        "x": 14,
+        "y": 52
+      },
+      {
+        "x": 14,
+        "y": 53
+      },
+      {
+        "x": 14,
+        "y": 53
+      }
+    ],
+    [
+      {
+        "x": 11,
+        "y": 31
+      },
+      {
+        "x": 14,
+        "y": 31
+      },
+      {
+        "x": 17,
+        "y": 30
+      },
+      {
+        "x": 23,
+        "y": 30
+      },
+      {
+        "x": 31,
+        "y": 28
+      },
+      {
+        "x": 36,
+        "y": 27
+      },
+      {
+        "x": 44,
+        "y": 26
+      },
+      {
+        "x": 47,
+        "y": 25
+      },
+      {
+        "x": 51,
+        "y": 25
+      },
+      {
+        "x": 53,
+        "y": 25
+      },
+      {
+        "x": 53,
+        "y": 25
+      },
+      {
+        "x": 53,
+        "y": 26
+      },
+      {
+        "x": 53,
+        "y": 28
+      },
+      {
+        "x": 53,
+        "y": 33
+      },
+      {
+        "x": 52,
+        "y": 40
+      },
+      {
+        "x": 51,
+        "y": 45
+      },
+      {
+        "x": 51,
+        "y": 48
+      },
+      {
+        "x": 51,
+        "y": 48
+      },
+      {
+        "x": 51,
+        "y": 48
+      }
+    ],
+    [
+      {
+        "x": 31,
+        "y": 13
+      },
+      {
+        "x": 31,
+        "y": 13
+      },
+      {
+        "x": 31,
+        "y": 13
+      },
+      {
+        "x": 31,
+        "y": 14
+      },
+      {
+        "x": 32,
+        "y": 20
+      },
+      {
+        "x": 32,
+        "y": 23
+      },
+      {
+        "x": 33,
+        "y": 29
+      },
+      {
+        "x": 33,
+        "y": 32
+      },
+      {
+        "x": 33,
+        "y": 38
+      },
+      {
+        "x": 33,
+        "y": 40
+      },
+      {
+        "x": 34,
+        "y": 45
+      },
+      {
+        "x": 34,
+        "y": 46
+      },
+      {
+        "x": 34,
+        "y": 48
+      },
+      {
+        "x": 34,
+        "y": 48
+      }
+    ],
+    [
+      {
+        "x": 22,
+        "y": 32
+      },
+      {
+        "x": 22,
+        "y": 32
+      },
+      {
+        "x": 22,
+        "y": 32
+      },
+      {
+        "x": 23,
+        "y": 33
+      },
+      {
+        "x": 25,
+        "y": 34
+      },
+      {
+        "x": 27,
+        "y": 35
+      },
+      {
+        "x": 29,
+        "y": 36
+      },
+      {
+        "x": 29,
+        "y": 36
+      }
+    ],
+    [
+      {
+        "x": 20,
+        "y": 40
+      },
+      {
+        "x": 20,
+        "y": 40
+      },
+      {
+        "x": 20,
+        "y": 40
+      },
+      {
+        "x": 20,
+        "y": 41
+      },
+      {
+        "x": 22,
+        "y": 41
+      },
+      {
+        "x": 24,
+        "y": 42
+      },
+      {
+        "x": 24,
+        "y": 42
+      }
+    ],
+    [
+      {
+        "x": 38,
+        "y": 31
+      },
+      {
+        "x": 38,
+        "y": 31
+      },
+      {
+        "x": 38,
+        "y": 31
+      },
+      {
+        "x": 38,
+        "y": 31
+      },
+      {
+        "x": 40,
+        "y": 33
+      },
+      {
+        "x": 42,
+        "y": 34
+      },
+      {
+        "x": 44,
+        "y": 36
+      },
+      {
+        "x": 44,
+        "y": 36
+      }
+    ],
+    [
+      {
+        "x": 39,
+        "y": 40
+      },
+      {
+        "x": 41,
+        "y": 41
+      },
+      {
+        "x": 42,
+        "y": 42
+      },
+      {
+        "x": 44,
+        "y": 44
+      },
+      {
+        "x": 44,
+        "y": 44
+      }
+    ]
+  ],
+  "image": {
+    "description": "PNG image in ARGB format even though this is just a grayscale image.",
+    "data": [
+      "iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAABHNCSVQICAgIfAhkiAAAAaFJREFU",
+      "eJztmsFuxCAMRPGq///L3hNVlJLEBg9Dip/U2zYavzhgNiulFC0b82EHYJMC2AHYpAB2ADYpgB2A",
+      "TQpgB2CzvYAfdoARVNtTvIiYr0ETUMNfhb0qLhopkw9D0YV57naL8A5YrcAnTAKQ7Ygu8AnoGnBX",
+      "XJWqqlQJJgHsu4Rk+zmAJmCVrsoOYAdgkwLYAdi88jBkGcysi+wSAlrD0KzDkFnAMRBiC/MWHHWK",
+      "nN4BvXcWNTfABXgKZgxHZgEi8qeYkee0Fvv0xQiarjWgp3BPgTOlDD8CrZBRBcw4KpsHoWMQEfn9",
+      "u0NVh7ul9xpWIJNga08f3eZQEroE9E5iXhFeCT2SoGeBq8fEK+H8SEQy5TBkWS8s10Dg2gVas4D3",
+      "/0dASPiXx2Haq7HIAQZ9+KpAOqCu9lEL1uvmgCPW8OfPzdgCSwkWYJ0QvderIDoB1gGRMl4/B9xh",
+      "FRT9ucoS3wlayTkAQApgB2CzxBoQvVN46O6AWS8u0LgFrPJeP4rt14DtBUz/oeRqbN8BKYAdgE0K",
+      "YAdgkwLYAdikAHYANl+z/J+93IPJkwAAAABJRU5ErkJggg=="
+    ]
+  }
+}
