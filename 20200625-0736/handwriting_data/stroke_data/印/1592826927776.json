@@ -1,0 +1,340 @@
+{
+  "label": "印",
+  "timestamp": 1592826927776,
+  "confidence": 0.003759494749829173,
+  "touches": [
+    [
+      {
+        "x": 26,
+        "y": 9
+      },
+      {
+        "x": 26,
+        "y": 9
+      },
+      {
+        "x": 26,
+        "y": 9
+      },
+      {
+        "x": 26,
+        "y": 9
+      },
+      {
+        "x": 24,
+        "y": 10
+      },
+      {
+        "x": 23,
+        "y": 11
+      },
+      {
+        "x": 21,
+        "y": 13
+      },
+      {
+        "x": 18,
+        "y": 15
+      },
+      {
+        "x": 16,
+        "y": 16
+      },
+      {
+        "x": 14,
+        "y": 16
+      },
+      {
+        "x": 13,
+        "y": 16
+      },
+      {
+        "x": 13,
+        "y": 16
+      },
+      {
+        "x": 13,
+        "y": 16
+      },
+      {
+        "x": 13,
+        "y": 16
+      },
+      {
+        "x": 13,
+        "y": 16
+      },
+      {
+        "x": 13,
+        "y": 16
+      },
+      {
+        "x": 13,
+        "y": 16
+      },
+      {
+        "x": 13,
+        "y": 16
+      },
+      {
+        "x": 13,
+        "y": 16
+      },
+      {
+        "x": 13,
+        "y": 18
+      },
+      {
+        "x": 13,
+        "y": 19
+      },
+      {
+        "x": 13,
+        "y": 21
+      },
+      {
+        "x": 14,
+        "y": 27
+      },
+      {
+        "x": 14,
+        "y": 30
+      },
+      {
+        "x": 14,
+        "y": 33
+      },
+      {
+        "x": 14,
+        "y": 36
+      },
+      {
+        "x": 14,
+        "y": 38
+      },
+      {
+        "x": 15,
+        "y": 40
+      },
+      {
+        "x": 15,
+        "y": 40
+      }
+    ],
+    [
+      {
+        "x": 15,
+        "y": 25
+      },
+      {
+        "x": 15,
+        "y": 25
+      },
+      {
+        "x": 17,
+        "y": 25
+      },
+      {
+        "x": 18,
+        "y": 25
+      },
+      {
+        "x": 21,
+        "y": 25
+      },
+      {
+        "x": 24,
+        "y": 25
+      },
+      {
+        "x": 25,
+        "y": 25
+      },
+      {
+        "x": 25,
+        "y": 25
+      }
+    ],
+    [
+      {
+        "x": 14,
+        "y": 37
+      },
+      {
+        "x": 14,
+        "y": 37
+      },
+      {
+        "x": 14,
+        "y": 37
+      },
+      {
+        "x": 16,
+        "y": 37
+      },
+      {
+        "x": 17,
+        "y": 36
+      },
+      {
+        "x": 19,
+        "y": 36
+      },
+      {
+        "x": 22,
+        "y": 36
+      },
+      {
+        "x": 23,
+        "y": 36
+      },
+      {
+        "x": 25,
+        "y": 36
+      },
+      {
+        "x": 25,
+        "y": 36
+      }
+    ],
+    [
+      {
+        "x": 32,
+        "y": 10
+      },
+      {
+        "x": 33,
+        "y": 10
+      },
+      {
+        "x": 36,
+        "y": 9
+      },
+      {
+        "x": 40,
+        "y": 8
+      },
+      {
+        "x": 42,
+        "y": 7
+      },
+      {
+        "x": 44,
+        "y": 7
+      },
+      {
+        "x": 45,
+        "y": 7
+      },
+      {
+        "x": 46,
+        "y": 7
+      },
+      {
+        "x": 46,
+        "y": 8
+      },
+      {
+        "x": 46,
+        "y": 11
+      },
+      {
+        "x": 45,
+        "y": 16
+      },
+      {
+        "x": 44,
+        "y": 20
+      },
+      {
+        "x": 43,
+        "y": 24
+      },
+      {
+        "x": 43,
+        "y": 27
+      },
+      {
+        "x": 42,
+        "y": 28
+      },
+      {
+        "x": 42,
+        "y": 28
+      },
+      {
+        "x": 42,
+        "y": 28
+      },
+      {
+        "x": 42,
+        "y": 28
+      }
+    ],
+    [
+      {
+        "x": 31,
+        "y": 10
+      },
+      {
+        "x": 31,
+        "y": 10
+      },
+      {
+        "x": 31,
+        "y": 11
+      },
+      {
+        "x": 32,
+        "y": 14
+      },
+      {
+        "x": 32,
+        "y": 19
+      },
+      {
+        "x": 33,
+        "y": 25
+      },
+      {
+        "x": 33,
+        "y": 34
+      },
+      {
+        "x": 33,
+        "y": 40
+      },
+      {
+        "x": 34,
+        "y": 42
+      },
+      {
+        "x": 34,
+        "y": 42
+      }
+    ],
+    [
+      {
+        "x": 35,
+        "y": 48
+      },
+      {
+        "x": 35,
+        "y": 48
+      }
+    ]
+  ],
+  "image": {
+    "description": "PNG image in ARGB format even though this is just a grayscale image.",
+    "data": [
+      "iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAABHNCSVQICAgIfAhkiAAAAVlJREFU",
+      "eJztmtEOgyAMRemy//9l9kRCjNMirYeGntfFeXtoFd2klFLLxnzoADQpgA5AkwLoADRfOsAdtf6/",
+      "SYnI9PcvKeCqaGvcBfTFXK3YXdH9sZaCXAVcBdUUYdHid7gJOBaoKeaNgo+4CNC2veZzb0xvg7XW",
+      "oeLbMaPnsMRMwGjL0yvfmB6BsxVZpTgNwwK8NyZarM5lNgKRVr3n8QgQBXvsELd/GAopwLL7Qgqw",
+      "ZAkBmtn2ekJcQgDJYwFvPrP3WN99pnaCIxLOgosIJrKx/QgMd0C/alF3fz0hOsBzTEIIaHh03JJv",
+      "hY94jlqoDvAgBdABaFIAHYDG5aXoGatumqY6gN7HW2CyD1h1dTVMXwMiF19KXgSfCfBYdep6Eup3",
+      "AQ/wEaBFSsm/yu5NCqAD0KQAOgBNCqAD0KQAOgBNCqAD0KQAOgBNCqAD0KQAOgBNCqAD0Gwv4Ad7",
+      "e1Ok451GKwAAAABJRU5ErkJggg=="
+    ]
+  }
+}

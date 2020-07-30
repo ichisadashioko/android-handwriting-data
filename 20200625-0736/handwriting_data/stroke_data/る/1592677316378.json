@@ -1,0 +1,251 @@
+{
+  "label": "る",
+  "timestamp": 1592677316378,
+  "confidence": 0.638931155204773,
+  "touches": [
+    [
+      {
+        "x": 16,
+        "y": 18
+      },
+      {
+        "x": 16,
+        "y": 18
+      },
+      {
+        "x": 16,
+        "y": 18
+      },
+      {
+        "x": 16,
+        "y": 18
+      },
+      {
+        "x": 16,
+        "y": 18
+      },
+      {
+        "x": 19,
+        "y": 18
+      },
+      {
+        "x": 21,
+        "y": 18
+      },
+      {
+        "x": 25,
+        "y": 17
+      },
+      {
+        "x": 30,
+        "y": 16
+      },
+      {
+        "x": 34,
+        "y": 15
+      },
+      {
+        "x": 36,
+        "y": 15
+      },
+      {
+        "x": 37,
+        "y": 15
+      },
+      {
+        "x": 37,
+        "y": 15
+      },
+      {
+        "x": 36,
+        "y": 15
+      },
+      {
+        "x": 35,
+        "y": 16
+      },
+      {
+        "x": 31,
+        "y": 19
+      },
+      {
+        "x": 28,
+        "y": 20
+      },
+      {
+        "x": 23,
+        "y": 24
+      },
+      {
+        "x": 20,
+        "y": 26
+      },
+      {
+        "x": 15,
+        "y": 30
+      },
+      {
+        "x": 12,
+        "y": 32
+      },
+      {
+        "x": 11,
+        "y": 33
+      },
+      {
+        "x": 11,
+        "y": 33
+      },
+      {
+        "x": 13,
+        "y": 32
+      },
+      {
+        "x": 16,
+        "y": 31
+      },
+      {
+        "x": 22,
+        "y": 28
+      },
+      {
+        "x": 25,
+        "y": 26
+      },
+      {
+        "x": 31,
+        "y": 24
+      },
+      {
+        "x": 33,
+        "y": 24
+      },
+      {
+        "x": 38,
+        "y": 23
+      },
+      {
+        "x": 39,
+        "y": 24
+      },
+      {
+        "x": 42,
+        "y": 25
+      },
+      {
+        "x": 43,
+        "y": 27
+      },
+      {
+        "x": 44,
+        "y": 30
+      },
+      {
+        "x": 44,
+        "y": 34
+      },
+      {
+        "x": 42,
+        "y": 40
+      },
+      {
+        "x": 40,
+        "y": 45
+      },
+      {
+        "x": 38,
+        "y": 47
+      },
+      {
+        "x": 32,
+        "y": 51
+      },
+      {
+        "x": 27,
+        "y": 53
+      },
+      {
+        "x": 22,
+        "y": 53
+      },
+      {
+        "x": 17,
+        "y": 52
+      },
+      {
+        "x": 16,
+        "y": 51
+      },
+      {
+        "x": 15,
+        "y": 49
+      },
+      {
+        "x": 15,
+        "y": 48
+      },
+      {
+        "x": 17,
+        "y": 44
+      },
+      {
+        "x": 18,
+        "y": 42
+      },
+      {
+        "x": 19,
+        "y": 41
+      },
+      {
+        "x": 22,
+        "y": 40
+      },
+      {
+        "x": 25,
+        "y": 40
+      },
+      {
+        "x": 28,
+        "y": 41
+      },
+      {
+        "x": 32,
+        "y": 43
+      },
+      {
+        "x": 33,
+        "y": 44
+      },
+      {
+        "x": 36,
+        "y": 46
+      },
+      {
+        "x": 38,
+        "y": 48
+      },
+      {
+        "x": 38,
+        "y": 49
+      },
+      {
+        "x": 38,
+        "y": 49
+      }
+    ]
+  ],
+  "image": {
+    "description": "PNG image in ARGB format even though this is just a grayscale image.",
+    "data": [
+      "iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAABHNCSVQICAgIfAhkiAAAAapJREFU",
+      "eJztmsGOxCAMQ5PV/v8vsyek0ahQQhKbdvPOnaltKCS0KiJN/jE/bAFsKgC2ADYVAFsAmwqALYBN",
+      "BcAWwKYCYAtgUwGwBbD5Zd68tXEjqqoQDbAAZmaZpAWwaxg18h1XAF6T379HmxcBPAJXpq6CY5gX",
+      "EVEBHomdZLwDWQRPNN5JD+CE53xGagAW86xZkrIG3Jmx7h6ZQYQHMBp1i2lVhc2I0ACsJnf+MzqE",
+      "kDXgSmTUCI7+Kwr3DFgRFzFq/T7RM8DVDt+ZV9VwwdGzYSuA1tqS+UiydgLzGoA2no0pgBMOMKJZ",
+      "DuDket7D1jb4BuOd5QDeZPqTx5wKZxVDjwmgc1Qh9AYeEUBmLxB+IJJZK2QsxGEBrIzS5zW77XA0",
+      "ae3w3TVZ3Z2V0HZ4xYy1oswOCr4IXrXIo+4S8T4x7DzAOkKjINDQt8FRCJ5wTfeXzTUgQyCj46TP",
+      "gBmIHcK9DUYeeDJwzwCvePa7Q9o3QrPnHRmCqxAajf7IgPV6BJAXI1MBTy+FOxnvBRFAP5E5kaPr",
+      "AAQVAFsAmwqALYBNBcAWwKYCYAtg8wd3/72P/Hj4NQAAAABJRU5ErkJggg=="
+    ]
+  }
+}
